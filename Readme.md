@@ -1,0 +1,1 @@
+Olá, estou aprendendo a usar o Git/GitHub na prática, criando um novo repositório.
